@@ -1,0 +1,31 @@
+{
+  "artemisApp": {
+    "lectureLecture": {
+      "home": {
+        "title": "Lectures",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Lecture",
+        "createOrEditLabel": "Create or edit a Lecture",
+        "notFound": "No Lectures found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Lecture {{ id }}?"
+      },
+      "detail": {
+        "title": "Lecture"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "startDate": "Start Date",
+      "endDate": "End Date"
+    }
+  },
+  "lectureApp": {
+    "lectureLecture": {
+      "created": "A new Lecture is created with identifier {{ param }}",
+      "updated": "A Lecture is updated with identifier {{ param }}",
+      "deleted": "A Lecture is deleted with identifier {{ param }}"
+    }
+  }
+}

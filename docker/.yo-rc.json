@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["Artemis", "Lecture"],
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "clusteredDbApps": {},
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YWNlNDQ0OWVhZWNlM2UxNGYyNGMyOWU1MzE4OTVlNGE3ZTY1MWIwYjg1NDljZmU5NjM2ZDY0NzU1NjhiMWY1YTQyMTM3YmU0ZjcxYzE5MjI4OGQ3NGQ0MTFmMDMxMzA2OTQzNw=="
+  }
+}

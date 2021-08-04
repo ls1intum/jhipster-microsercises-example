@@ -1,0 +1,7 @@
+entity Lecture {
+    title String,
+    description String,               // LONGTEXT --> lob
+    startDate ZonedDateTime,
+    endDate ZonedDateTime
+}
+
